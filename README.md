@@ -13,7 +13,7 @@
 
 ---
 
-<p>Outside Addon Is An Addon for Minecraft Bedrock Edition Made By : Bedrock Miners Team<br>
+<p>Outside Addon Is An Addon for Minecraft Bedrock Edition and was originally Made By : Bedrock Miners Team, and was then forked by: Bright Levi Bennett<br>
 The Addon Is Based On The Create Mod for Minecraft Java Edition And Tries To Implement As Many Features As Possible
 </p>
 
